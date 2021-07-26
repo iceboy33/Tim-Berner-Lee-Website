@@ -2,7 +2,7 @@ body{
     margin:0;
     padding-top:800px;
     font-family: 'Gochi Hand', cursive;
-
+    text-align: center;
 }
 .profile{
     width:350px;
@@ -83,4 +83,17 @@ p{
 
 .links:hover{
     background-color: fuchsia;
-}    
+} 
+a{
+    text-decoration: none;
+    
+}
+.article:hover{
+    color:fuchsia;
+    
+}
+html{
+    scroll-behavior: smooth;
+    
+}
+
